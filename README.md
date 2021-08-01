@@ -10,6 +10,6 @@ Simply change:
 ## How to execute
 
 ```
-pipenv install
+pipenv install (if it doesn't work use pip install pipenv)
 python spam.py
 ```
