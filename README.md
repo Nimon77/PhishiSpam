@@ -6,3 +6,10 @@ Simply change:
 * URL of the website
 * xpath of button
 * how many thread you want
+
+## How to execute
+
+```
+pipenv install
+python spam.py
+```
